@@ -52,8 +52,8 @@ Hi there 👋 I'm Anshika roy
 5️⃣ Featured Repositories 📌
 ## 📌 Featured Projects  
 - 🌟 **[ Art Gallery](#)** – soon
--  ## 🌐 My Website  for fun
-Check out my personal website: [anshikaa.neocities.org](https://anshikaa.neocities.org/)  
+-  ## 🌐 My Website 
+ just for fun : [anshikaa.neocities.org](https://anshikaa.neocities.org/)  
 
   
 
