@@ -51,6 +51,9 @@ Hi there 👋 I'm Anshika roy
 - My dream is to create a game or app  with my own characters! 🎮  
 5️⃣ Featured Repositories 📌
 ## 📌 Featured Projects  
-- 🌟 **[ Art Gallery](#)** – soon  
+- 🌟 **[ Art Gallery](#)** – soon
+-  ## 🌐 My Website  for fun
+Check out my personal website: [anshikaa.neocities.org](https://anshikaa.neocities.org/)  
+
   
 
