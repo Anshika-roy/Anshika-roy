@@ -3,7 +3,7 @@ Hi there 👋 I'm Anshika roy
 ## 🚀 About Me 
 
 🚀 About Me
-👋 Hi! I'm Anshika roy , a B.Tech CSE (1st Sem) student 
+👋 Hi! I'm Anshika roy , a student 
 🎨 I love coding, drawing, and creating small chibi characters!
 💻 Currently learning JavaScript, CSS, and 3D modeling.
 🎮 Big fan of gaming and anime—always up for new recommendations!
