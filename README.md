@@ -1,59 +1,28 @@
-Hi there 👋 I'm Anshika roy
+# 💫 About Me:
+🔭 I’m currently working on  <br>• Discord bots with interactive commands (hug, pat, games, pets 🐾)  <br>• Web projects using HTML, CSS, JavaScript  <br>• Small AI/ML experiments & automation ideas  <br><br>👯 I’m looking to collaborate on  <br>• Beginner-friendly open source projects  <br>• Discord bots, web apps, or fun tech ideas  <br>• Hackathons & college projects  <br><br>🤝 I’m looking for help with  <br>• Backend concepts (Node.js, APIs)  <br>• Improving project structure & clean code  <br>• Learning best practices in Git & GitHub  <br><br>🌱 I’m currently learning  <br>• JavaScript & CSS (deep dive)  <br>• Git & GitHub collaboration  <br>• Basics of AI / ML & reinforcement learning  <br><br>💬 Ask me about  <br>• Discord bots 🤖  <br>• Frontend basics  <br>• College tech projects  <br>• Creative + tech mashups  <br><br>⚡ Fun fact  <br>• I love mixing coding with creativity — from bots to VTuber ideas 🎮🦇
 
-## 🚀 About Me 
 
-🚀 About Me
-👋 Hi! I'm Anshika roy , a student 
-🎨 I love coding, drawing, and creating small chibi characters!
-💻 Currently learning JavaScript, CSS, and 3D modeling.
-🎮 Big fan of gaming and anime—always up for new recommendations!
-🔧 Experienced in HTML & C++ and exploring UI/UX design and electronics.
-💡 I create feedback characters and work on fun personal projects. 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-roy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikaroy523@gmail.com) 
 
-## 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anshika-roy&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Anshika-roy&theme=rose_pine&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-roy&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 📌 Projects  
-- 🌟 **[Project Name](#)** 
-- 🎨 **Chibi Art Collection** – soon 
--  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Anshika-roy&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
 
-## 🎮 Hobbies  
-- Gaming 🎮  
-- Watching Anime 📺  
-- Drawing ✏️  
-- Coding 💻  
-- reading 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anshika-roy&limit=5&theme=react&combine_all_yearly_contributions=true)
 
-## 🌱 Currently Learning  
-- JavaScript & CSS  
-- UI/UX Design  
-- 3D Modeling & Electronics (optional)  
+---
+[![](https://visitcount.itsvg.in/api?id=Anshika-roy&icon=0&color=12)](https://visitcount.itsvg.in)
 
-⚡ **Fun Fact**: I love coding, drawing, and making cute little chibi characters! 🎨👾  
-🌟 Additional Sections added
-
-1️⃣ Fun Badges & Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
-
-2️⃣ Favorite Anime & Games 🎮📺
-## 🎮 Favorite Games & Anime  
-🎮 **Games:** Genshin Impact, Minecraft, bgmi ,cod,coc etc  
-📺 **Anime:** A One Piece, Jujutsu Kaisen, hunter x hunter  etc.  
-
-4️⃣ Random Fun Facts ⚡
-## ⚡ Fun Facts  
-- I love drawing tiny chibi characters! 🎨  
-- I can spend hours reading manga 📖  
-- My dream is to create a game or app  with my own characters! 🎮  
-5️⃣ Featured Repositories 📌
-## 📌 Featured Projects  
-- 🌟 **[ Art Gallery](#)** – soon
--  ## 🌐 My Website 
- just for fun : [anshikaa.neocities.org](https://anshikaa.neocities.org/)  
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/anss?new=1) 
 
   
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
