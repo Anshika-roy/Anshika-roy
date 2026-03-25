@@ -1,24 +1,68 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>• Discord bots with interactive commands (hug, pat, games, pets 🐾)  <br>• Web projects using HTML, CSS, JavaScript  <br>• Small AI/ML experiments & automation ideas  <br><br>👯 I’m looking to collaborate on  <br>• Beginner-friendly open source projects  <br>• Discord bots, web apps, or fun tech ideas  <br>• Hackathons & college projects  <br><br>🤝 I’m looking for help with  <br>• Backend concepts (Node.js, APIs)  <br>• Improving project structure & clean code  <br>• Learning best practices in Git & GitHub  <br><br>🌱 I’m currently learning  <br>• JavaScript & CSS (deep dive)  <br>• Git & GitHub collaboration  <br>• Basics of AI / ML & reinforcement learning  <br><br>💬 Ask me about  <br>• Discord bots 🤖  <br>• Frontend basics  <br>• College tech projects  <br>• Creative + tech mashups  <br><br>⚡ Fun fact  <br>• I love mixing coding with creativity — from bots to VTuber ideas 🎮🦇
+🔭 Currently working on  
+• Discord bots with interactive commands (hug, pat, games, pets 🐾)  
+• Web projects using HTML, CSS, JavaScript  
+• Small AI/ML experiments & automation ideas  
 
+👯 Looking to collaborate on  
+• Beginner-friendly open source projects  
+• Discord bots, web apps, and creative tech ideas  
+• Hackathons & college projects  
+
+🤝 Looking for help with  
+• Backend development (Node.js, APIs)  
+• Writing clean, maintainable code  
+• Git & GitHub best practices  
+
+🌱 Currently learning  
+• JavaScript & CSS (deep dive)  
+• Git & GitHub collaboration  
+• Basics of AI/ML  
+
+💬 Ask me about  
+• Discord bots 🤖  
+• Frontend basics  
+• College tech projects  
+• Creative + tech mashups  
+
+⚡ Fun fact  
+• I love blending coding with creativity — from bots to VTuber concepts 🎮🦇  
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-roy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikaroy523@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/anshika-roy)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshikaroy523@gmail.com)  
+
+---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anshika-roy&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anshika-roy&theme=rose_pine&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-roy&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Anshika-roy&theme=rose_pine&hide_border=true&show_icons=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Anshika-roy&theme=rose_pine&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-roy&theme=rose_pine&hide_border=true&layout=compact)  
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anshika-roy&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Anshika-roy&theme=algolia&no-frame=true&margin-w=10)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🔝 Top Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Anshika-roy&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anshika-roy&icon=0&color=12)](https://visitcount.itsvg.in)
 
-
+![](https://visitcount.itsvg.in/api?id=Anshika-roy&icon=5&color=12)
