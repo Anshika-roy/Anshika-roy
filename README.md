@@ -36,31 +36,10 @@
 
 ---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
- 
+## 📊 GitHub Stats
 
----
+![](https://github-readme-stats.vercel.app/api?username=Anshika-roy&theme=rose_pine&hide_border=true&show_icons=true)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anshika-roy&theme=rose_pine&hide_border=true&show_icons=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Anshika-roy&theme=rose_pine&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-roy&theme=rose_pine&hide_border=true&layout=compact)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anshika-roy&theme=rose_pine&hide_border=true)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anshika-roy&theme=algolia&no-frame=true&margin-w=10)
-
----
-
-### 🔝 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Anshika-roy&limit=5&theme=react&combine_all_yearly_contributions=true)
-
----
-
-![](https://visitcount.itsvg.in/api?id=Anshika-roy&icon=5&color=12)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-roy&theme=rose_pine&hide_border=true&layout=compact)
