@@ -8,24 +8,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anshika-roy&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=Anshika-roy&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anshika-roy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-roy&layout=compact&theme=tokyonight)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-## 🔝 Top Contributed Repo
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Anshika-roy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anshika-roy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Anshika-roy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👀 Profile Views
-
-[![Views](https://komarev.com/ghpvc/?username=Anshika-roy&color=blue)]()
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->                 this is not working
