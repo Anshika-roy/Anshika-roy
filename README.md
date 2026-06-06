@@ -1,5 +1,31 @@
 # 💫 About Me:
-🔭 Currently working on • AI-powered web applications and automation tools • Cybersecurity mini projects and secure systems • Full-stack projects using JavaScript and Node.js<br><br>👯 Looking to collaborate on • Open source projects • AI, automation, and web development tools • Hackathons and innovative tech projects<br><br>🤝 Looking for help with • Backend architecture and scalable systems • Advanced JavaScript and API development • Cloud deployment and DevOps basics<br><br>🌱 Currently learning • Full-stack development • Cybersecurity fundamentals • AI/ML integration in modern applications<br><br>💬 Ask me about • JavaScript & frontend development • Discord bots and automation • UI/UX and dashboard design • Student developer projects<br><br>⚡ Fun fact • I enjoy building systems that combine design, automation, and problem-solving.
+💫 About Me
+
+🚀 Computer Engineering student passionate about AI, automation, and full-stack development.
+
+🔭 Currently Building
+• Task Assistant — an AI-powered productivity dashboard
+• Automation tools and workflow systems
+• Full-stack applications using React, Node.js, and modern APIs
+
+🌱 Exploring
+• AI integration in real-world applications
+• Backend architecture and scalable systems
+• Cloud deployment and DevOps fundamentals
+
+🤝 Open To
+• Open-source contributions
+• Hackathons and collaborative projects
+• AI, automation, and developer tools
+
+💬 Ask Me About
+• JavaScript and React
+• Dashboard and UI development
+• Automation workflows
+• Student developer projects
+
+⚡ Fun Fact
+I enjoy turning everyday problems into software solutions and building products that combine design, automation, and productivity.
 
 
 ## 🌐 Socials:
